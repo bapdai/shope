@@ -19,6 +19,7 @@ html{
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
+/* Reponsive */
 .gird{
     width: 1200px;
     max-width: 100%;
@@ -30,6 +31,9 @@ html{
 .gird__row{
     display: flex;
     flex-wrap: wrap;
+}
+.gird__column{
+
 }
 /* Animation */
 @keyframes faceIN {
